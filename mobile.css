@@ -1,0 +1,141 @@
+#about{
+    /* background-color: red; */
+    padding: 30px;
+    text-align: center;
+    display: block;
+}
+.about-details{
+   display: block;
+   background-color: whitesmoke;
+   width: 95%;
+   margin: 0px auto;
+   padding: 5px;
+   border-radius: 10px 20px 10px;
+   box-shadow: 10px 10px whitesmoke;
+
+}
+.about-progress{
+   background-color: whitesmoke;
+   padding: 20px;
+   width: 70%;
+   display: block;
+   margin:0px auto;
+   
+   border-radius: 20px 20px;
+   box-shadow: 10px 10px whitesmoke;
+}
+
+/* end here */
+#work{
+   /* background-color: rgb(151, 84, 84); */
+   padding: 3px;
+   text-align: center;
+   margin-top: 30px;
+}
+.work-nav{
+   /* background-color: blue; */
+   width: 80%;
+   display: block;
+   margin: 0px auto;
+}
+ul li{
+  
+   padding: 5px;
+   
+}
+ul li a{
+   text-decoration: none;
+
+}
+.work-represent{
+   background-color: whitesmoke;
+   height: 300px;
+   width: 90%;
+   display: block;
+   margin: 0px auto;
+   border-radius: 40px 10px 40px 10px;
+
+}
+
+/* ends here */
+#service{
+   /* background-color: red; */
+   margin-top: 500px;
+   text-align: center;
+   padding: 10px;
+}
+.service-head{
+   /* background-color: red; */
+   padding: 10px;
+}
+.service-content{
+   padding: 10px;
+   background-color: whitesmoke;
+   display: block;
+   margin-top: 20px;
+}
+.service-content div{
+    margin: 5px;
+    
+}
+.service-content img{
+   height: 100px;
+   width: 100px;
+   border: 1px solid red;
+   padding: 10px;
+   border-radius: 100px;
+
+}
+.service-content p{
+   text-align: justify;
+   height: 300px;
+   width: 90%;
+}
+
+/* ends here */
+
+#contact{
+   position: relative;
+   top: 850px;
+   /* background-color: rgb(156, 21, 21); */
+   text-align: center;
+   padding: 10px;
+}
+.contact-head a{
+   margin-left: 20px;
+}
+
+.contact-content{
+   background-color: whitesmoke;
+   border-radius: 20px 10px 20px;
+   box-shadow: 20px 10px 20px black;
+
+   padding: 10px;
+   width: 80%;
+   display: block;
+   margin: 0px auto;
+   height: 400px;
+   
+}
+.contact-content div{
+   margin-top: 25px;
+}
+.contact-content  input{
+   border-top: none;
+   border: 1px solid red;
+   
+}
+
+/* ends her */
+
+
+#footer{
+   background-color: rgb(38, 37, 37);
+   color: white;
+   padding: 20px;
+   position: relative;
+   top: 900px;
+}
+body{
+   background-color: whitesmoke;
+}
